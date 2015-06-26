@@ -1,0 +1,16 @@
+name: TreeChopper
+
+author: yourname
+
+main: treechopper.TreeChopper
+
+commands:
+    treechopper:
+        description: Your description goes here
+        usage: Usage of the command goes here
+    treechopper_admin:
+        description: Your description goes here
+        usage: Usage of the command goes here
+
+version: 0.1
+
